@@ -1,1 +1,1 @@
-# Orange-logo-static-page
+# static-pages
